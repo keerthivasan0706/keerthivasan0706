@@ -34,4 +34,4 @@ I am a **passionate Software Tester** with strong expertise in **manual and auto
 
 ## 🌐 Connect with Me  
 - 💼 LinkedIn: [Keerthivasan K](#)  
-- 🔗 GitHub: [Keerthivasan K](#)
+- 🔗 GitHub: [Keerthivasan K](https://github.com/keerthivasan0706)
