@@ -19,6 +19,7 @@ I am a **passionate Software Tester** with strong expertise in **manual and auto
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>  
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>  
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>  
+  <img src="https://img.shields.io/badge/FireFlink-%23FF4500.svg?style=for-the-badge&logo=fire&logoColor=white" alt="FireFlink"/>
 </p>  
 
 ## 💼 Professional Summary  
