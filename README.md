@@ -16,9 +16,9 @@ I am a **passionate Software Tester** with strong expertise in **manual and auto
  <p> <img src="https://img.shields.io/badge/Selenium-%43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>  </p>
  <p> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>  </p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>  
- <p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>  </p>
- <p> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>  </p>
- <p> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>  </p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>  
+ <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>  
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>  
   <img src="https://img.shields.io/badge/FireFlink-%23FF4500.svg?style=for-the-badge&logo=fire&logoColor=white" alt="FireFlink"/>
 </p>  
 
