@@ -12,7 +12,7 @@ I am a **passionate Software Tester** with strong expertise in **manual and auto
 
 ## 🛠️ Tools & Technologies  
 <p align="left">  
- <p> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>  </p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>  </
   <img src="https://img.shields.io/badge/Selenium-%43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>  
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>  
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>  
